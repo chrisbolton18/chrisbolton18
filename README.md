@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 , I'm Chris Bolton<br>I’m currently a student at the University of Windsor, graduating in 2026 with a Computer Science Degree!
+Hi 👋 , I'm Chris Bolton<br>I’m currently studying Computer Science at the University of Windsor
 
 
 ## 🌐 Socials:
